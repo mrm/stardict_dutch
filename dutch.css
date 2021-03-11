@@ -1,0 +1,176 @@
+body {
+margin-left: 0.9em;
+margin-right: 0.9em;
+margin-top: 1.0em;
+margin-bottom: 1.5em;
+}
+
+*.entry
+{
+	display: block;
+	font-size: 84%;
+	margin-bottom: 1em;
+	line-height: 130%;
+}
+
+*.entry > span.x_xh0
+{
+	display: block;
+	margin-bottom: 0.6em;
+}
+
+span.hg span.hw,
+span.hg span.vg,
+span.hwg span.hw,
+span.ehw,
+span.vhw,
+span.hwg span.hvg,
+span.hg span.gp.t_hw
+{
+	font-size: 170%;
+	font-weight: normal;
+	line-height: 150%;
+	-webkit-hyphens: auto;
+}
+
+
+span.hg span.hw span.sy_underline,
+span.hg span.vg span.v span.sy_underline,
+span.sy_underline,
+span.pr span.ph span.str
+{
+	text-decoration: underline;
+}
+
+span.hsb:before
+{
+	/* '•' */
+	content: '\2022';
+	font-size: 80%;
+	vertical-align: 3%;
+}
+
+span.wbb:before
+{
+	/* ' | ' */
+	content: '\a0\7c\a0';
+	font-size: 70%;
+	vertical-align: 5%;
+	color: #666666;
+	margin-left: -0.15em;
+	margin-right: -0.15em;
+}
+
+span.x_xd0
+{
+	display: block;
+	margin-top: 0.3em;
+	margin-bottom: 2.0em;
+}
+
+span.x_xd0
+{
+	margin-left: 1.0em;
+}
+
+span.x_xd0 > span.x_xdh
+{
+	display: block;
+	margin-left: -0.8em;
+	margin-bottom: 0.5em;
+	font-size: 120%;
+	line-height: 120%;
+}
+
+span.x_xd0.hasSn > span.x_xdh > span.sn
+{
+	margin-right: 0.2em;
+}
+
+span.sn
+{
+	font-weight: 600;
+	color: #666666;
+}
+
+span.msDict > span.posg:first-child, span.se2 > span.posg:first-child, span.x_xdh > span.sn + span.posg
+{
+	margin-right: 0.2em;
+}
+
+span.x_xd1.hasSn
+{
+	margin-left: 1.0em;
+	text-indent: 0em;
+}
+
+
+span.x_xd1
+{
+	display: block;
+	margin-top: 0.3em;
+	margin-bottom: 0.7em;
+	
+	margin-left: 0em;
+}
+
+span.x_xd1 > span.x_xdh.sn,
+span.x_xd1 > span.x_xdh > span.sn
+{
+	display: inline;
+	margin-right: 0.1em;
+}
+
+span.x_xd1 > span.x_xdh
+{
+	margin-bottom: 0.5em;
+}
+
+span.x_xd1.hasSn span.x_xdh.sn + span.x_xd1sub
+{
+	display: inline;
+	margin-left: 0em;
+}
+
+span.x_xd1 > span.sn,
+span.x_xd1 > span.x_xdh > span.sn
+{
+	margin-left: -1em;
+	margin-right: 0.0em;
+}
+
+span.eg span.ex
+{
+	font-weight: 200;
+	font-style: italic;
+}
+span.ex span.bold
+{
+	font-weight: 600;
+	font-style: italic;
+}
+span.eg span.ex > span.italic
+{
+	font-style: normal;
+}
+
+span.x_xo0
+{
+	display: block;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: 0em;
+}
+
+span.l
+{
+	font-weight: 600;
+}
+
+span.x_xo2
+{
+	display: block;
+	margin-left: 1em;
+	margin-top: 0.4em;
+	margin-bottom: 0.4em;
+}
